@@ -1,0 +1,36 @@
+# Build outputs
+build/
+*.o
+*.obj
+*.d
+*.dep
+*.map
+*.lst
+*.list
+*.elf
+*.axf
+*.hex
+*.bin
+
+# Cube output junk
+.ioc
+
+# Tooling
+.vscode/
+.idea/
+*.code-workspace
+
+# GDB
+.gdb_history
+
+# Swap files
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
